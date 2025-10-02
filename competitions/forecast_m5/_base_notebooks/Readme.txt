@@ -1,0 +1,1 @@
+Carpeta con copia de notebooks de terceros. Se utilizan como base para explorar ideas

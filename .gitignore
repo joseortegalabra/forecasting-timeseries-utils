@@ -1,0 +1,65 @@
+# Environments para ocultar
+.env
+**/.env
+*.env
+
+
+# pkl data and artifact models
+.pkl
+**/.pkl
+*.pkl
+
+
+# files images
+.png
+**/.png
+*.png
+
+.html
+**/.html
+*.html
+
+
+# DS Store Mac file
+.DS_Store
+**/DS_Store
+*DS_Store
+
+
+# checkpoints
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# pycache
+__pycache__
+**/__pycache__
+*__pycache__
+
+
+
+# files data
+.csv
+**/.csv
+*.csv
+
+# files models nixtla
+.p
+**/.p
+*.p
+
+# files data nixtla
+.zip
+**/.zip
+*.zip
+
+# file model skforecast
+.joblib
+**/.joblib
+*.joblib
+
+
+# data folder
+data/
+**/data/
+*data
